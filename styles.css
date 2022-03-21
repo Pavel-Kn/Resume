@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+    font: normal 16px 'Nunito', sans-serif;
+    color: #0f141e;
+    background: #f1faff;
+}
+
+.info-text p {
+    font-weight: bold;
+    font-style: italic;
+    color: #394862;
+}
+
+.card {
+border: 1px solid rgba(0, 0, 0, 0.479);
+border-radius: 10px;
+}
+
+.bg-hobb {
+background: #b8f1f6;
+}
+
+.bg-exp {
+background: #87c9ff;
+}
