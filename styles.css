@@ -81,3 +81,25 @@ a:visited {
     opacity: 0.85;
 }
 
+.list {
+    padding: 0 20px;
+}
+
+.list li {
+    color: #0d1015;
+    margin-bottom: 9px;
+}
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    padding-bottom: 10px;
+}
+
+.table td:nth-child(2),
+.table td:nth-child(3) {
+    color: #1f3761;
+    font-weight: bold;
+}
